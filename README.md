@@ -11,6 +11,8 @@ SARAHI is an AI agent on Solana that issues loans in **USDC or WBTC** against a 
 Banks make home financing slow and expensive. Crypto investors want yield backed by real assets. SARAHI connects both sides: owners get fast liquidity from a pool of lenders, and lenders earn yield backed by physical property.
 
 ## About the idea
+SARAHI (acronym in English: Solana Agent Real State via Artificial Hackathon Intelligence) 
+Is AI is issuing crypto loans (USDC, WBTC) by using a "REAL WORLD ASSET" as collateral
 https://github.com/hbelloma/SARAHI_agent/blob/8a0122edbee895b5a743c23c4daf67c4a5bc271f/RWA%26cryptolending_eng.pdf
 
 ## How it works
