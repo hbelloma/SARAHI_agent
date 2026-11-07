@@ -14,7 +14,7 @@ Banks make home financing slow and expensive. Crypto investors want yield backed
 SARAHI (acronym in English: Solana Agent Real State via Artificial Hackathon Intelligence) 
 Is AI is issuing crypto loans (USDC, WBTC) by using a "REAL WORLD ASSET" as collateral
 https://github.com/hbelloma/SARAHI_agent/blob/8a0122edbee895b5a743c23c4daf67c4a5bc271f/RWA%26cryptolending_eng.pdf
-
+https://github.com/hbelloma/SARAHI_agent/blob/39175891effc3948a765c852b327c895dcc066ad/IMG-20261107-WA0040.jpg
 ## How it works
 
 1. **Register:** the owner registers a property (appraisal plus the hash of the trust document) in a PDA account.
