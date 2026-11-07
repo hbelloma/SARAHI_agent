@@ -1,0 +1,22 @@
+[package]
+name = "sarahi"
+version = "0.1.0"
+description = "SARAHI: crypto loans backed by tokenized real estate (RWA)"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "sarahi"
+
+[features]
+default = []
+cpi = ["no-entrypoint"]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+idl-build = ["anchor-lang/idl-build", "anchor-spl/idl-build"]
+
+[dependencies]
+# Adjust versions to match your toolchain (the Solana dev skill recommends Anchor 1.1.x).
+anchor-lang = { version = "1.1.0", features = ["init-if-needed"] }
+anchor-spl = "1.1.0"
