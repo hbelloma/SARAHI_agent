@@ -16,7 +16,7 @@ Is AI is issuing crypto loans (USDC, WBTC) by using a "REAL WORLD ASSET" (here R
 You can read the full idea in this [pdf](https://github.com/hbelloma/SARAHI_agent/blob/8a0122edbee895b5a743c23c4daf67c4a5bc271f/RWA%26cryptolending_eng.pdf)
 Here is the schematic picture ![schematic](https://github.com/hbelloma/SARAHI_agent/blob/39175891effc3948a765c852b327c895dcc066ad/IMG-20261107-WA0040.jpg)
 
-This dApp will be added (as another agent) as a complement of another AI agent idea for automatic trading agents see [Dashiagitbub](https://github.com/hbelloma/Dashia-agent-app_v0_2) (Authomatic trading agents)this will be mixed as a general dapp project called TwoLevelCapital, and SARAHI Will be an extra (lending mechanism for borrow liquidity) will be a use of case of a token ($TLC) in future.
+This dApp will be added (as another agent) as a complement of another bigger idea see [Dashiagitbub](https://github.com/hbelloma/Dashia-agent-app_v0_2) (Authomatic trading agents) as a general dapp project called TwoLevelCapital, and SARAHI Will be an extra feature (lending mechanism for borrow liquidity) that will be a use of case of a token ($TLC) in future.
 
 ## How it works
 
