@@ -77,6 +77,8 @@ Program instructions: `initialize_config`, `register_property`, `verify_property
 - Program ID: [`23EsnF49ijwYb13TuK7sAHpfhepHdsoSznVhg7twxAZx`](https://explorer.solana.com/address/23EsnF49ijwYb13TuK7sAHpfhepHdsoSznVhg7twxAZx?cluster=devnet)
 - Transaction: [`5U1UTQ8ur4FZEUp8…`](https://explorer.solana.com/tx/5U1UTQ8ur4FZEUp8rkKqmbgDtxph25M5E1baWAyU3dNjQNZA9bfH283pJ41Qq6k8jghddiriX7KV6xm2KW6DW1LR?cluster=devnet)
 
+![img](Videos/Screenshot_2026-11-08-10-28-38-25_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
+
 ## Build and deploy to Devnet
 
 Requires Rust, the Solana CLI, and Anchor.
