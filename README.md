@@ -4,7 +4,8 @@ SARAHI is an AI agent on Solana that issues loans in **USDC or WBTC** against a 
 
 > Status: hackathon prototype. The program compiles with Anchor 1.2.2 (see Build status) but is **unaudited, untested and not yet deployed**. It is meant for test funds only. Do not use it with real money.
 > 
-**Live demo (simulated, no wallet needed):** https://claude.ai/artifact/CT1ZEncrxJnCCCywWcmhBB
+**Live demo (simulated, no wallet needed):** https://claude.ai/artifact/AajD4Q4xmK1XwTMZhsEi3W
+
 
 ## The problem
 
