@@ -12,11 +12,11 @@ Banks make home financing slow and expensive. Crypto investors want yield backed
 
 ## About the idea
 SARAHI (acronym in English: Solana Agent Real State via Artificial Hackathon Intelligence) 
-Is AI is issuing crypto loans (USDC, WBTC) by using a "REAL WORLD ASSET" (here Real State) as collateral
+Is AI is issuing crypto loans (USDC, WBTC) by using a "REAL WORLD ASSET" (here Real State) as collateral. 
 You can read the full idea in this [pdf](https://github.com/hbelloma/SARAHI_agent/blob/8a0122edbee895b5a743c23c4daf67c4a5bc271f/RWA%26cryptolending_eng.pdf)
 Here is the schematic picture ![schematic](https://github.com/hbelloma/SARAHI_agent/blob/39175891effc3948a765c852b327c895dcc066ad/IMG-20261107-WA0040.jpg)
 
-This dApp will be added (as another agent) as a complement of another bigger idea see [Dashiagitbub](https://github.com/hbelloma/Dashia-agent-app_v0_2) (Authomatic trading agents) as a general dapp project called TwoLevelCapital, and SARAHI Will be an extra feature (lending mechanism for borrow liquidity) that will be a use of case of a token ($TLC) in future.
+This dApp will be added (as another agent) as a complement of another bigger idea see [Dashiagitbub](https://github.com/hbelloma/Dashia-agent-app_v0_2) (Authomatic trading agents) as a general dapp project called TwoLevelCapital, and SARAHI will be an extra feature (lending mechanism for borrow liquidity) that will be a use of case of a token ($TLC) in future.
 
 ## How it works
 
@@ -95,4 +95,4 @@ If `anchor build` says `anchor-cli` is missing, install Anchor 1.2.2 (for exampl
 
 ## Credits
 
-Based on the TLC Protocol design for on-chain mortgage lending. Built with Anchor and the Solana Foundation developer skill.
+Based on the TLC Protocol design for on-chain mortgage lending. Built with [Anchor](https://templates-site.vercel.app/templates/mobile/expo-kit-anchor#get-started) and the [Solana Foundation developer skill](https://github.com/solana-foundation/solana-dev-skill).
