@@ -70,7 +70,12 @@ Program instructions: `initialize_config`, `register_property`, `verify_property
 - Program ID: `23EsnF49ijwYb13TuK7sAHpfhepHdsoSznVhg7twxAZx`
 - `sarahi.so` SHA-256: `d5e4e8d42854fe05915ed982d142a3daf01ae6971a4ea70ab5e8f9a6b5270995`
 - IDL: 7 instructions, 3 accounts, 9 error codes, 3 events.
-- Not done yet: functional tests and a Devnet deployment.
+- Not done yet: functional tests.
+
+## Devnet deployment
+
+- Program ID: [`23EsnF49ijwYb13TuK7sAHpfhepHdsoSznVhg7twxAZx`](https://explorer.solana.com/address/23EsnF49ijwYb13TuK7sAHpfhepHdsoSznVhg7twxAZx?cluster=devnet)
+- Transaction: [`5U1UTQ8ur4FZEUp8…`](https://explorer.solana.com/tx/5U1UTQ8ur4FZEUp8rkKqmbgDtxph25M5E1baWAyU3dNjQNZA9bfH283pJ41Qq6k8jghddiriX7KV6xm2KW6DW1LR?cluster=devnet)
 
 ## Build and deploy to Devnet
 
