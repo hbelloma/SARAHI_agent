@@ -1,14 +1,15 @@
 [toolchain]
+anchor_version = "1.2.2"
 
 [features]
 resolution = true
 skip-lint = false
 
 [programs.devnet]
-sarahi = "11111111111111111111111111111111"
+sarahi = "23EsnF49ijwYb13TuK7sAHpfhepHdsoSznVhg7twxAZx"
 
 [programs.localnet]
-sarahi = "11111111111111111111111111111111"
+sarahi = "23EsnF49ijwYb13TuK7sAHpfhepHdsoSznVhg7twxAZx"
 
 [registry]
 url = "https://api.apr.dev"
